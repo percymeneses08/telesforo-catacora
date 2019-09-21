@@ -1,0 +1,15 @@
+header img {
+  width: 100%;
+}
+section img {
+  width: 250px;
+}
+section div {
+  display: flex;
+  justify-content: center;
+}
+section div {
+  display: flex;
+  overflow-y: hidden;
+  justify-content: center;
+}
